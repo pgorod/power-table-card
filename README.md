@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Power Table Card](images/my_personal_notes.png)
-
+ 
 A powerful and flexible table card for Home Assistant that combines live data sources with editable columns and persistent storage. Perfect for task management, scheduling, inventory tracking, and any scenario requiring dynamic, user-editable tables.
 
 ## ✨ Features
