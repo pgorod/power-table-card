@@ -9,7 +9,7 @@
  */
 
 import {LitElement, html, css} from 'https://unpkg.com/lit-element@2.4.0/lit-element.js?module';
-import { marked } from 'https://cdn.skypack.dev/marked@4.0.0';
+import { marked } from 'https://unpkg.com/marked@4.0.0/lib/marked.esm.js';
 
 // Date formatting library
 var dateFormat = function () {
